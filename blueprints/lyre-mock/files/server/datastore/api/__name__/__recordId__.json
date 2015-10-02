@@ -1,0 +1,9 @@
+{
+  "data": {
+    "id": "<%= recordId %>",
+    "type": "<%= modelNamePlural %>",
+    "attributes": {
+
+    }
+  }
+}

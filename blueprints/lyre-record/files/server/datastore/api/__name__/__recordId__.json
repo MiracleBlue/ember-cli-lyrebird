@@ -1,0 +1,6 @@
+{
+  "data": {
+    "id": "<%= recordId %>",
+    "type": "<%= dasherizedModuleName %>"
+  }
+}
